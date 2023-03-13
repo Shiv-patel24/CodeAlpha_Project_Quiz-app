@@ -16,7 +16,7 @@ html{
     min-height: 100vh;
     display: grid;
     place-items: center;
-    background-color: hsl(206, 92%, 94%);
+    background-color: black;
 }
 
 .inner-div{
